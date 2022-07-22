@@ -1,0 +1,17 @@
+Design described in:
+
+    Stangherlin, Kleber, and Zhuanhao Wu and Hiren Patel and Manoj Sachdev.
+    "Secure and Lightweight Strong PUF Challenge Obfuscation with Keyed 
+    Non-linear FSR.", 2022.
+
+The environment variable `ROOT_DIR` must be defined to the root directory.
+
+Tech specific files were removed. To simulate, you must add APUF and
+oscillator models, as well as replace the tech specific cells.
+
+Acronyms are as follows:
+
+    SMP: simple APUF design using LFSR
+    NCM: APUF + NLFSR + clock randomizer
+    MSK: APUF + NLFSR + Boolean masking
+

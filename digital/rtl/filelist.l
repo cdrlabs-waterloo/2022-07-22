@@ -1,0 +1,12 @@
+$ROOT_DIR/digital/rtl/clkg.v
+$ROOT_DIR/digital/rtl/clock_rand.v
+$ROOT_DIR/digital/rtl/casr.v
+$ROOT_DIR/digital/rtl/smp_lfsr.v
+$ROOT_DIR/digital/rtl/ncm_nlfsr.v
+$ROOT_DIR/digital/rtl/msk_nlfsr.v
+$ROOT_DIR/digital/rtl/smp.v
+$ROOT_DIR/digital/rtl/ncm.v
+$ROOT_DIR/digital/rtl/msk.v
+$ROOT_DIR/digital/rtl/puf.v
+$ROOT_DIR/digital/rtl/tst.v
+$ROOT_DIR/digital/rtl/top.v
